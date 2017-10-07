@@ -18,3 +18,14 @@ body {
 .flex {
     display: flex;
 }
+
+/* Header */
+
+header {
+    background: url(https://raw.githubusercontent.com/TimCakir/optics/master/resources/images/glasses-bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-top: 1rem;
+    height: 30rem;
+}
